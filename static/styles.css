@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#weather-service {
+    border: 1px solid gray;
+    width: 400px;
+    min-height: 16%;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#weather-info {
+}
+
+#weather-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#weather-table td, th {
+    border: 1px solid black;
+    padding: 2px 5px;
+}
